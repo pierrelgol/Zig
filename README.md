@@ -1,2 +1,2 @@
 # Zig
-Exploration of the languages for educational purposes 
+Exploration of the languages for educational purposes.
